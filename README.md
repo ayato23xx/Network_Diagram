@@ -1,1 +1,2 @@
 # Network_Diagram
+このリポジトリは我が家のネットワーク構成図のdraw.io及びsvg置き場です。
