@@ -7,6 +7,8 @@
 
 https://www.drawio.com/
 
+![20221015](https://github.com/ayato23xx/Network_Diagram/assets/28500602/d99d817f-9442-47df-8495-3e0c19e90103)
+
 
 
 # Network_Diagram
